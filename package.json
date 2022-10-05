@@ -1,18 +1,18 @@
 {
   "name": "aa12-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "999lucky✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"999lucky",
-"หวยหุ้น",
-"69 lottovip",
-"เว็บที่มีทุกหวย",
-"ดูหวยสดรัฐบาลวันนี้"
-],
+  "version": "0.2.0",
+  "description": "999lucky✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "999lucky",
+    "หวยหุ้น",
+    "69 lottovip",
+    "เว็บที่มีทุกหวย",
+    "ดูหวยสดรัฐบาลวันนี้"
+  ],
   "repository": "https://github.com/setteebet/aa12-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
